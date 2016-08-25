@@ -1,0 +1,15 @@
+/*!
+Theme Name: WordPress Theme
+Description: Just a standard WordPress theme
+Version: 1.0
+Author: Blake Walters
+Author URL: http://markupboy.com
+*/
+
+// vendor
+@import 'bourbon';
+@import "breakpoint-sass/stylesheets/breakpoint";
+
+// partials
+@import 'reset';
+@import 'variables';

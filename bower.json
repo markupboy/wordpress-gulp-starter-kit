@@ -1,0 +1,29 @@
+{
+  "name": "wordpress-gulp-starter-kit",
+  "homepage": "https://github.com/markupboy/wordpress-gulp-starter-kit",
+  "authors": [
+    {
+      "name": "Blake Walters",
+      "email": "blake@markupboy.com",
+      "homepage": "http://markupboy.com"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "wordpress-theme",
+    "starter-kit",
+    "gulp",
+    "bower",
+    "sass"
+  ],
+  "license": "GPL-3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    ".sass-cache",
+    "build"
+  ]
+}
